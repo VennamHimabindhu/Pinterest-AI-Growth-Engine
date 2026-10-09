@@ -1,0 +1,42 @@
+pins = [
+    {
+        "id": "1001",
+        "title": "Budget Skincare Routine",
+        "board": "Skincare",
+        "impressions": 12000,
+        "clicks": 180,
+        "saves": 430,
+    },
+    {
+        "id": "1002",
+        "title": "Simple Morning Skincare",
+        "board": "Skincare",
+        "impressions": 8000,
+        "clicks": 320,
+        "saves": 280,
+    },
+    {
+        "id": "1003",
+        "title": "Healthy Hair Tips",
+        "board": "Hair Care",
+        "impressions": 15000,
+        "clicks": 150,
+        "saves": 600,
+    },
+    {
+        "id": "1004",
+        "title": "Self Care Ideas",
+        "board": "Self Care",
+        "impressions": 5000,
+        "clicks": 250,
+        "saves": 100,
+    },
+    {
+        "id": "1005",
+        "title": "Affordable Beauty Products",
+        "board": "Beauty",
+        "impressions": 20000,
+        "clicks": 200,
+        "saves": 300,
+    },
+]

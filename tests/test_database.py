@@ -1,0 +1,8 @@
+from src.database.connection import get_connection
+
+
+connection = get_connection()
+
+print("✅ Connected to PostgreSQL!")
+
+connection.close()
